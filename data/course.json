@@ -1,0 +1,44 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Health and Medicine",
+      "Public Health"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Climate Studies"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Environmental Science"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Sustainability"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "2ea84ad9-d89f-5e1a-06df-2b5f3ae63db4",
+      "c4df01fb-2d88-fe7a-e321-70e7da8d58c8"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "D-Lab: Water, Climate Change, and Health",
+  "course_description": "D-Lab: Water, Climate Change, and Health is a project-based, experiential, and transdisciplinary course. Together with peers and experts, we will explore the vitally important interface of water, climate change, and health. This course addresses mitigation and adaptation to climate change as it pertains to water and health. Water-borne illness, malnutrition, and vector-borne diseases represent the top three causes of morbidity and mortality in regions of our focus.\u00a0Students submit a term project, setting the stage for a lifelong commitment to communicating climate science to a broad public.\n",
+  "department_numbers": [
+    "EC"
+  ],
+  "extra_course_numbers": "EC.789",
+  "primary_course_number": "EC.719",
+  "learning_resource_types": [
+    "Written Assignments",
+    "Projects with Examples",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
